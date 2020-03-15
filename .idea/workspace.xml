@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc08a3a2-b4cf-467f-8b47-a7f135b48860" name="默认" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="scratch@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="scratch@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="scratch@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="scratch: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="scratch@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="scratch: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="userinfo: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1431071514">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="52" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.11" value="4" />
+          <entry key="project.open.time.12" value="8" />
+          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="7" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="57" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="1-SNAPSHOT" value="3" />
+          <entry key="class" value="16" />
+          <entry key="cmd" value="3" />
+          <entry key="dtd" value="2" />
+          <entry key="fxml" value="1" />
+          <entry key="gitignore" value="2" />
+          <entry key="iml" value="3" />
+          <entry key="java" value="621" />
+          <entry key="kt" value="1" />
+          <entry key="md" value="11" />
+          <entry key="mvnw" value="3" />
+          <entry key="pom" value="5" />
+          <entry key="properties" value="5" />
+          <entry key="sql" value="2" />
+          <entry key="tld" value="2" />
+          <entry key="user" value="4" />
+          <entry key="xml" value="59" />
+          <entry key="yml" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="16" />
+          <entry key="DTD" value="2" />
+          <entry key="Database Element" value="4" />
+          <entry key="IDEA_MODULE" value="3" />
+          <entry key="JAVA" value="621" />
+          <entry key="Kotlin" value="1" />
+          <entry key="Markdown" value="11" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Properties" value="5" />
+          <entry key="SQL" value="1" />
+          <entry key="Scratch" value="1" />
+          <entry key="UML" value="3" />
+          <entry key="XML" value="67" />
+          <entry key="YAML" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="5" />
+          <entry key="java" value="5942" />
+          <entry key="txt" value="7" />
+          <entry key="xml" value="410" />
+          <entry key="yml" value="157" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5942" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="SQL" value="3" />
+          <entry key="XML" value="407" />
+          <entry key="YAML" value="157" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="scratch" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/controller/LoginUserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/handler/GlobalExceptionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/domain/result/LoginResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/domain/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/LoginUserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/LoginUserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1067#1068#0" expanded="true" />
+                <element signature="e#1130#1131#0" expanded="true" />
+                <element signature="e#1236#1237#0" expanded="true" />
+                <element signature="e#1301#1302#0" expanded="true" />
+                <element signature="e#1353#1354#0" expanded="true" />
+                <element signature="e#1395#1396#0" expanded="true" />
+                <element signature="e#1505#1506#0" expanded="true" />
+                <element signature="e#1566#1567#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Tag Library Descriptor" />
+        <option value="spring-beans.schema" />
+        <option value="FxmlFile" />
+        <option value="XML" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mysql</find>
+      <find>bad</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Obito" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/LoginMailService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/LoginMailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/UserLoginService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/UserLoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/LoginService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/LoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/dao/LoginUserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/Utils/RegexUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/RegisterService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/domain/LoginUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/LoginUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/exception/LoginException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/base/HttpStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/exception/BusinessException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/base/RestResponseStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/ScratchApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/RegistMail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/NormalRegister.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/base/NumberConstant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/LoginModeService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/LoginModeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/domain/result/LoginResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/Utils/IdUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/NormalRegisterService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/controller/NormalRegisterController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/NormalRegisterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/MailRegisterService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/base/RestResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/domain/result/GetCodeResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/Utils/MailUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/SendMailService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/LoginUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/SendMailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/controller/MailRegisterController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/domain/entity/UserInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/ForgetPasswordService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/domain/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/MailRegisterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/handler/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zhbit/scratch/ScratchApplicationTests.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhbit/scratch/controller/LoginUserController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Program Files\Java\maven\repository" />
+        <option name="userSettingsFile" value="E:\Program Files\Java\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scratch" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scratch" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1448" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaDocJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>可能的错误</id>
+          </State>
+          <State>
+            <id>拼写</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Lombok</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584118185476" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39581153" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zhbit.scratch.domain.result" />
+      <recent name="com.zhbit.scratch.dao" />
+      <recent name="com.zhbit.scratch.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\scratch\src\main\java\com\zhbit\scratch\Utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhbit.scratch.domain.entity" />
+      <recent name="com.zhbit.scratch.base" />
+      <recent name="com.zhbit.scratch.service.impl" />
+      <recent name="com.zhbit.scratch.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\scratch\src\main\resources" />
+      <recent name="D:\IdeaProjects\scratch\src\main\resources\mybatis" />
+      <recent name="D:\IdeaProjects\scratch\src\main\java\com\zhbit\scratch\Utils" />
+      <recent name="D:\IdeaProjects\scratch\src\main\java\com\zhbit\scratch\dao" />
+      <recent name="D:\IdeaProjects\scratch\src\main\java\com\zhbit\scratch" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ScratchApplication">
+    <configuration name="ScratchApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhbit.scratch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhbit.scratch" />
+      <option name="MAIN_CLASS_NAME" value="com.zhbit.scratch.ScratchApplicationTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScratchApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhbit.scratch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhbit.scratch" />
+      <option name="MAIN_CLASS_NAME" value="com.zhbit.scratch.ScratchApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScratchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scratch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhbit.scratch.ScratchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ScratchApplication" />
+      <item itemvalue="JUnit.ScratchApplicationTests" />
+      <item itemvalue="JUnit.ScratchApplicationTests.contextLoads" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ScratchApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.ScratchApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc08a3a2-b4cf-467f-8b47-a7f135b48860" name="默认" comment="" />
+      <created>1574762467692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574762467692</updated>
+      <workItem from="1574762469303" duration="679000" />
+      <workItem from="1574763155816" duration="1521000" />
+      <workItem from="1574769258516" duration="4518000" />
+      <workItem from="1574935728465" duration="636000" />
+      <workItem from="1574945248068" duration="1269000" />
+      <workItem from="1574986089013" duration="1387000" />
+      <workItem from="1575019336441" duration="1861000" />
+      <workItem from="1575117182560" duration="987000" />
+      <workItem from="1575128814160" duration="527000" />
+      <workItem from="1575167637303" duration="34576000" />
+      <workItem from="1575248241423" duration="12418000" />
+      <workItem from="1575334160549" duration="17894000" />
+      <workItem from="1575591482626" duration="4705000" />
+      <workItem from="1575683651881" duration="9227000" />
+      <workItem from="1575963008852" duration="42999000" />
+      <workItem from="1576157510883" duration="13029000" />
+      <workItem from="1576196509866" duration="4817000" />
+      <workItem from="1576300471793" duration="6410000" />
+      <workItem from="1576496318840" duration="10006000" />
+      <workItem from="1576573356337" duration="32607000" />
+      <workItem from="1576681363008" duration="42000" />
+      <workItem from="1576681442914" duration="905000" />
+      <workItem from="1576684695682" duration="31930000" />
+      <workItem from="1576766247183" duration="5319000" />
+      <workItem from="1576776355891" duration="2226000" />
+      <workItem from="1576800913101" duration="10932000" />
+      <workItem from="1576824887209" duration="2148000" />
+      <workItem from="1576828775061" duration="4469000" />
+      <workItem from="1576847154963" duration="979000" />
+      <workItem from="1577405483283" duration="61000" />
+      <workItem from="1577405552547" duration="3800000" />
+      <workItem from="1577711249853" duration="20000" />
+      <workItem from="1577715173468" duration="5118000" />
+      <workItem from="1577771907409" duration="31335000" />
+      <workItem from="1577882546134" duration="14428000" />
+      <workItem from="1577897920714" duration="29000" />
+      <workItem from="1577902319612" duration="338000" />
+      <workItem from="1577902941338" duration="289000" />
+      <workItem from="1577903579699" duration="866000" />
+      <workItem from="1577927529496" duration="2770000" />
+      <workItem from="1577970319979" duration="64000" />
+      <workItem from="1579690435589" duration="117000" />
+      <workItem from="1583195335177" duration="715000" />
+      <workItem from="1583290887185" duration="6497000" />
+      <workItem from="1583591599576" duration="2530000" />
+      <workItem from="1583663761756" duration="5167000" />
+      <workItem from="1583755296622" duration="5563000" />
+      <workItem from="1583811126854" duration="4460000" />
+      <workItem from="1583987450626" duration="751000" />
+      <workItem from="1583992090309" duration="513000" />
+      <workItem from="1583992625302" duration="762000" />
+      <workItem from="1583993408972" duration="13175000" />
+      <workItem from="1584066102851" duration="2970000" />
+      <workItem from="1584088271215" duration="10627000" />
+      <workItem from="1584161103250" duration="6581000" />
+      <workItem from="1584192456839" duration="779000" />
+      <workItem from="1584255656524" duration="300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ScratchApplicationTests - 2019.12.20 at 02h 01m 04s.xml">
+      <configuration name="ScratchApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScratchApplicationTests - 2019.12.20 at 02h 02m 33s.xml">
+      <configuration name="ScratchApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScratchApplicationTests - 2019.12.20 at 08h 53m 18s.xml">
+      <configuration name="ScratchApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScratchApplicationTests - 2020.01.01 at 13h 39m 11s.xml">
+      <configuration name="ScratchApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScratchApplicationTests - 2020.01.01 at 13h 41m 17s.xml">
+      <configuration name="ScratchApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScratchApplicationTests_contextLoads - 2020.03.12 at 22h 50m 53s.xml">
+      <configuration name="ScratchApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScratchApplicationTests_contextLoads - 2020.03.13 at 21h 06m 11s.xml">
+      <configuration name="ScratchApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScratchApplicationTests_contextLoads - 2020.03.13 at 21h 06m 42s.xml">
+      <configuration name="ScratchApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScratchApplicationTests_contextLoads - 2020.03.13 at 21h 09m 12s.xml">
+      <configuration name="ScratchApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScratchApplicationTests_contextLoads - 2020.03.13 at 21h 23m 53s.xml">
+      <configuration name="ScratchApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="381648000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1448" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49716714" visible="true" weight="0.2170487" />
+      <window_info id="设计器" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.5028329" side_tool="true" weight="0.21179625" />
+      <window_info id="Favorites" order="6" sideWeight="0.5028329" side_tool="true" weight="0.21179625" />
+      <window_info id="Web" order="7" sideWeight="0.5028329" side_tool="true" weight="0.21179625" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985465" weight="0.37061995" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32749325" />
+      <window_info anchor="bottom" id="Database Changes" order="7" weight="0.32749325" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50145346" side_tool="true" weight="0.60944206" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32884097" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32614556" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32577905" />
+      <window_info anchor="bottom" id="调试" order="14" weight="0.31536388" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24894515" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="调色板" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.25716332" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.39276138" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32946298" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/controller/MailRegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/SendMailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/ForgetPasswordService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/RegisterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/base/NumberConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/maven/repository/org/mybatis/mybatis/3.5.3/mybatis-3.5.3.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2998">
+          <caret line="169" column="10" selection-start-line="169" selection-start-column="10" selection-end-line="169" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/base/HttpStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5859">
+          <caret line="217" column="42" selection-start-line="217" selection-start-column="42" selection-end-line="217" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/SendMailServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/scratch0.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="53" column="27" lean-forward="true" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/base/RestResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files/Java/maven/repository/org/springframework/boot/spring-boot-dependencies/2.2.1.RELEASE/spring-boot-dependencies-2.2.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4215">
+          <caret line="438" column="6" selection-start-line="438" selection-start-column="6" selection-end-line="438" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files/Java/maven/repository/org/springframework/boot/spring-boot-starter-parent/2.2.1.RELEASE/spring-boot-starter-parent-2.2.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="144" column="8" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/ScratchApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/Utils/IdUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files/Java/maven/repository/org/springframework/boot/spring-boot-starter/2.2.1.RELEASE/spring-boot-starter-2.2.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1185">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files/Java/maven/repository/org/springframework/boot/spring-boot-starter-logging/2.2.1.RELEASE/spring-boot-starter-logging-2.2.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.zhbit:scratch:0.0.1-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.zhbit:scratch:0.0.1-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.zhbit:scratch:0.0.1-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.2.1.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.2.1.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.2.1.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.12.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.2.1.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.12.1/org.apache.logging.log4j:log4j-api:jar:2.12.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.2.1.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.29</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/jakarta.annotation:jakarta.annotation-api:jar:1.3.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.yaml:snakeyaml:jar:1.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE/com.zaxxer:HikariCP:jar:3.4.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE/com.zaxxer:HikariCP:jar:3.4.1/org.slf4j:slf4j-api:jar:1.7.29</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE/org.springframework:spring-jdbc:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE/org.springframework:spring-jdbc:jar:5.2.1.RELEASE/org.springframework:spring-beans:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.1.RELEASE/org.springframework:spring-jdbc:jar:5.2.1.RELEASE/org.springframework:spring-tx:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.2.1.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.2.1.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.10.0/com.fasterxml.jackson.core:jackson-annotations:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.2.1.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.10.0/com.fasterxml.jackson.core:jackson-core:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.2.1.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.2.1.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.2.1.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.2.1.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.27</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.2.1.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.27</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.2.1.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.27</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:2.2.1.RELEASE/jakarta.validation:jakarta.validation-api:jar:2.0.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:2.2.1.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.18.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:2.2.1.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.18.Final/org.jboss.logging:jboss-logging:jar:3.4.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:2.2.1.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.18.Final/com.fasterxml:classmate:jar:1.5.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework:spring-web:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework:spring-webmvc:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework:spring-webmvc:jar:5.2.1.RELEASE/org.springframework:spring-aop:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework:spring-webmvc:jar:5.2.1.RELEASE/org.springframework:spring-context:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.1.RELEASE/org.springframework:spring-webmvc:jar:5.2.1.RELEASE/org.springframework:spring-expression:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.1.1</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:2.1.1</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.1.1/org.mybatis:mybatis:jar:3.5.3</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.1.1/org.mybatis:mybatis-spring:jar:2.0.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-devtools:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-devtools:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-devtools:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:2.2.1.RELEASE/org.springframework:spring-context-support:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:2.2.1.RELEASE/com.sun.mail:jakarta.mail:jar:1.6.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:2.2.1.RELEASE/com.sun.mail:jakarta.mail:jar:1.6.4/com.sun.activation:jakarta.activation:jar:1.2.1</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:8.0.18</node>
+            <node x="" y="">com.alibaba:druid:jar:1.0.28</node>
+            <node x="" y="">com.alibaba:druid:jar:1.0.28/com.alibaba:jconsole:jar:1.8.0</node>
+            <node x="" y="">com.alibaba:druid:jar:1.0.28/com.alibaba:tools:jar:1.8.0</node>
+            <node x="" y="">com.alibaba:fastjson:jar:1.2.31</node>
+            <node x="" y="">org.projectlombok:lombok:jar:1.18.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-test:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.2/jakarta.activation:jakarta.activation-api:jar:1.2.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-api:jar:5.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-api:jar:5.5.2/org.apiguardian:apiguardian-api:jar:1.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-api:jar:5.5.2/org.opentest4j:opentest4j:jar:1.2.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-api:jar:5.5.2/org.junit.platform:junit-platform-commons:jar:1.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-params:jar:5.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-engine:jar:5.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-engine:jar:5.5.2/org.junit.platform:junit-platform-engine:jar:1.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.mockito:mockito-junit-jupiter:jar:3.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.assertj:assertj-core:jar:3.13.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.hamcrest:hamcrest:jar:2.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.mockito:mockito-core:jar:3.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.mockito:mockito-core:jar:3.1.0/net.bytebuddy:byte-buddy:jar:1.10.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.mockito:mockito-core:jar:3.1.0/net.bytebuddy:byte-buddy-agent:jar:1.10.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.mockito:mockito-core:jar:3.1.0/org.objenesis:objenesis:jar:2.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.springframework:spring-core:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.springframework:spring-core:jar:5.2.1.RELEASE/org.springframework:spring-jcl:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.springframework:spring-test:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.xmlunit:xmlunit-core:jar:2.6.3</node>
+            <node x="" y="">org.springframework.restdocs:spring-restdocs-mockmvc:jar:2.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.restdocs:spring-restdocs-mockmvc:jar:2.0.4.RELEASE/javax.servlet:javax.servlet-api:jar:4.0.1</node>
+            <node x="" y="">org.springframework.restdocs:spring-restdocs-mockmvc:jar:2.0.4.RELEASE/org.springframework.restdocs:spring-restdocs-core:jar:2.0.4.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="3557.0" y="615.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zhbit/scratch/ScratchApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="10" column="14" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/MailRegisterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="60" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/maven/repository/org/springframework/spring-webmvc/5.2.1.RELEASE/spring-webmvc-5.2.1.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="564" selection-start-line="564" selection-end-line="564" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/maven/repository/org/springframework/spring-web/5.2.1.RELEASE/spring-web-5.2.1.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/Utils/RegexUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/maven/repository/org/springframework/spring-aop/5.2.1.RELEASE/spring-aop-5.2.1.RELEASE.jar!/org/springframework/aop/target/SingletonTargetSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/maven/repository/org/springframework/spring-aop/5.2.1.RELEASE/spring-aop-5.2.1.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="471" selection-start-line="471" selection-end-line="471" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/maven/repository/org/springframework/spring-aop/5.2.1.RELEASE/spring-aop-5.2.1.RELEASE.jar!/org/springframework/aop/framework/adapter/GlobalAdvisorAdapterRegistry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/maven/repository/org/springframework/spring-aop/5.2.1.RELEASE/spring-aop-5.2.1.RELEASE.jar!/org/springframework/aop/framework/AdvisedSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/maven/repository/org/springframework/spring-aop/5.2.1.RELEASE/spring-aop-5.2.1.RELEASE.jar!/org/springframework/aop/support/StaticMethodMatcherPointcut.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/maven/repository/org/springframework/spring-aop/5.2.1.RELEASE/spring-aop-5.2.1.RELEASE.jar!/org/springframework/aop/framework/DefaultAdvisorChainFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/maven/repository/org/springframework/spring-tx/5.2.1.RELEASE/spring-tx-5.2.1.RELEASE.jar!/org/springframework/transaction/interceptor/BeanFactoryTransactionAttributeSourceAdvisor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/maven/repository/org/springframework/spring-tx/5.2.1.RELEASE/spring-tx-5.2.1.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionAttributeSourcePointcut.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/maven/repository/org/springframework/spring-tx/5.2.1.RELEASE/spring-tx-5.2.1.RELEASE.jar!/org/springframework/transaction/interceptor/AbstractFallbackTransactionAttributeSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/domain/entity/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/maven/repository/org/springframework/spring-web/5.2.1.RELEASE/spring-web-5.2.1.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/MailRegisterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="25" column="80" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/maven/repository/org/springframework/spring-context/5.2.1.RELEASE/spring-context-5.2.1.RELEASE.jar!/org/springframework/stereotype/Repository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/domain/result/GetCodeResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/base/RestResponseStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/exception/BusinessException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-861">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/controller/LoginUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/domain/result/LoginResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/domain/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/LoginUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/LoginUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
+            <element signature="e#1236#1237#0" expanded="true" />
+            <element signature="e#1301#1302#0" expanded="true" />
+            <element signature="e#1353#1354#0" expanded="true" />
+            <element signature="e#1395#1396#0" expanded="true" />
+            <element signature="e#1505#1506#0" expanded="true" />
+            <element signature="e#1566#1567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhbit/scratch/handler/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39581153" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39581153" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39581153" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39581153" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|scratch</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39581153" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.jboss.logging:jboss-logging:3.4.1.Final</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39581153" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.zhbit.scratch.dao.UserDao">
+     <!--自定义结果集-->
+    <resultMap type="User" id="userResultMap">
+        <id property="userId" column="id" />
+        <result property="userName" column="userName" />
+        <result property="password" column="password" />
+        <result property="sex" column="sex" />
+        <result property="age" column="age" />
+    </resultMap>
+    <!-- 登录查询 -->
+    <select id="selectUser" parameterType="java.util.Map" resultMap="userResultMap">
+        select *
+        from user
+        where email = #{email}
+           or phone = #{mobile}
+    </select>
+    <select id="countByLoginName" parameterType="String" resultType="int">
+        select count(*)
+                from user
+                where email = #{email}
+    </select>
+    <!-- 新增用户 -->
+    <insert id="addUser" parameterType="com.zhbit.scratch.domain.entity.User" keyProperty="id">
+        insert
+                into user(id,email,password,role)
+        values(#{userId},#{email},#{password},#{role})
+    </insert>
+    <!-- 更新用户 -->
+    <update id="updateUser" parameterType="User">
+        update user set
+                        username=#{username},password=#{password},sex=#{sex},age=#{age} where
+                id=#{id}
+    </update>
+    <!-- 删除用户 -->
+    <delete id="deleteUser" parameterType="int">
+        delete from user where
+                id=#{id}
+    </delete>
+
+</mapper>
